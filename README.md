@@ -1,2 +1,2 @@
 # string 
-Class for working with points
+Class for working with strings and byte strings
